@@ -1,0 +1,11 @@
+To run this program one needs Rstudio and R
+
+to install R go to
+https://cran.cnr.berkeley.edu/
+
+to install Rstudio go to
+https://www.rstudio.com/products/rstudio/download/
+
+afterwards you will need the file locally, so you will need the attached CSV file as well as the app.R file
+
+Afterwards the program should run well.
